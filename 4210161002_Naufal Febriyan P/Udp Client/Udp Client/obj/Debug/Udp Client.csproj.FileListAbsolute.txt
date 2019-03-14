@@ -1,0 +1,6 @@
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\obj\Debug\Udp Client.csproj.CoreCompileInputs.cache
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\bin\Debug\Udp Client.exe.config
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\bin\Debug\Udp Client.exe
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\bin\Debug\Udp Client.pdb
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\obj\Debug\Udp Client.exe
+C:\Users\Naufal Febriyan P\source\repos\Udp Client\Udp Client\obj\Debug\Udp Client.pdb

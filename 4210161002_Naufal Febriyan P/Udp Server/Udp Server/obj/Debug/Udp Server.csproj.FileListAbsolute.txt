@@ -1,0 +1,7 @@
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\bin\Debug\Udp Server.exe.config
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\bin\Debug\Udp Server.exe
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\bin\Debug\Udp Server.pdb
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\obj\Debug\Udp Server.csprojAssemblyReference.cache
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\obj\Debug\Udp Server.csproj.CoreCompileInputs.cache
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\obj\Debug\Udp Server.exe
+C:\Users\Naufal Febriyan P\source\repos\Udp Server\Udp Server\obj\Debug\Udp Server.pdb
